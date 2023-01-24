@@ -22,6 +22,7 @@ public class Greeter {
   public static void main(String args[]){
     
 	  System.out.println("Hello from Main Method & Hi & Good Evening Welcome to the session hope doing well !!!");
+	  System.out.println("There is DevOps Session is going on, It will be fun!!!");
   }
 	
 }
